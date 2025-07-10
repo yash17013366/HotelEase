@@ -94,6 +94,3 @@ You can register as a guest user using the signup form, or log in with the follo
 - **Housekeeping**: username: `housekeeping`, password: `housekeeping123`
 - **Guest**: username: `guest`, password: `guest123`
 
-## License
-
-This project is licensed under the MIT License.  
