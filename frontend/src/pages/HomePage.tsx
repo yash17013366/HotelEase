@@ -167,7 +167,7 @@ const HomePage: React.FC<HomePageProps> = ({ user, onLogout }) => {
       
       <footer className="bg-primary text-white py-6">
         <div className="container mx-auto px-4 text-center">
-          <p>© 2023 HotelEase Management System. All rights reserved.</p>
+          <p>HotelEase Management System. All rights reserved.</p>
         </div>
       </footer>
     </div>

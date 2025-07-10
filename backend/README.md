@@ -1,6 +1,6 @@
-# Project Bolt - Hotel Management System Backend
+# Project  - Hotel Management System Backend
 
-This is the backend API for the Project Bolt Hotel Management System. It provides RESTful endpoints for managing hotel operations including room management, bookings, user authentication, and more.
+This is the backend API for the Project Hotel Management System. It provides RESTful endpoints for managing hotel operations including room management, bookings, user authentication, and more.
 
 ## Technologies Used
 
