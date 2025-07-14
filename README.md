@@ -15,7 +15,7 @@ This is a full-stack hotel management system with a React frontend and MongoDB b
 ## Project Structure
 
 - `/backend` - MongoDB and Express API
-- `/project` - React frontend with TypeScript and Tailwind CSS
+- `/frontend` - React frontend with TypeScript and Tailwind CSS
 
 ## Setup and Installation
 
@@ -54,7 +54,7 @@ The backend server will run on http://localhost:5001
 
 1. Navigate to the frontend directory:
    ```
-   cd project
+   cd frontend
    ```
 
 2. Install dependencies:
